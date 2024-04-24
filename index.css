@@ -1,0 +1,48 @@
+*{
+
+    box-sizing: border-box;
+    font-family: fantasy;
+    text-decoration: none;
+}
+body{
+  background:#ffffff;
+    }
+h2{
+    color: saddlebrown;
+    font-size: xx-large;
+}
+.red-border{
+    border: 10px solid red;
+    width: 200px;
+}
+#img{margin: auto;
+    width: 50%;
+    border: 5px solid rgb(128, 0, 34);
+    padding: 10px;}
+    nav{
+        background-color:rgb(128, 0, 34)     ;
+        margin-left: 0rem;
+        margin-top: 0rem;
+        width: 110%;
+        height: 100%;
+        padding: 15px;
+        display: flex;
+    }
+    nav .nav1{
+        color: rgb(221, 221, 221);
+        padding: 0 200px;
+    }
+    .nav1:hover{
+        border-bottom: 0px solid rgb(211, 154, 154);
+        color: rgb(243, 36, 36);
+        transition: 590ms ease-in-out all;
+    }
+    #EL-MAAZIM{
+        margin: auto;
+    width: 50%;
+    padding: 20px;
+    }
+    #h1{
+        margin-left: 250px;
+    color: maroon;
+    }
